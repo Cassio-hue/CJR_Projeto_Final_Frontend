@@ -1,0 +1,13 @@
+[
+    {"detalhes": "ver itens pedidos", "pedido": 1, "status":"entregue","nome":"pedro","preco_total":"123,00","created_at":"16/10/2021"},
+    {"detalhes": "ver itens pedidos", "pedido": 2, "status":"entregue","nome":"ronaldo","preco_total":"12,00","created_at":"27/07/2021"},
+    {"detalhes": "ver itens pedidos", "pedido": 3, "status":"pendente","nome":"gorbatchov","preco_total":"103,00","created_at":"10/06/2021"},
+    {"detalhes": "ver itens pedidos", "pedido": 4, "status":"cancelado","nome":"jett","preco_total":"13,00", "created_at":"28/06/2021"},
+    {"detalhes": "ver itens pedidos", "pedido": 5, "status":"pendente","nome":"lissandra","preco_total":"3,00", "created_at":"18/03/2021"},
+    {"detalhes": "ver itens pedidos", "pedido": 6, "status":"entregue","nome":"udyr","preco_total":"16,00", "created_at":"23/05/2021"},
+    {"detalhes": "ver itens pedidos", "pedido": 7, "status":"cancelado","nome":"garen","preco_total":"11,00", "created_at":"15/05/2021"},
+    {"detalhes": "ver itens pedidos", "pedido": 8, "status":"pendente","nome":"pedrin 777","preco_total":"123,00", "created_at":"15/12/2021"},
+    {"detalhes": "ver itens pedidos", "pedido": 9, "status":"entregue","nome":"matue","preco_total":"10,00", "created_at":"14/03/2021"},
+    {"detalhes": "ver itens pedidos", "pedido": 10, "status":"entregue","nome":"rafa moreira mano","preco_total":"300,00", "created_at":"20/10/2021"},
+    {"detalhes": "ver itens pedidos", "pedido": 11, "status":"entregue","nome":"sla","preco_total":"1213,00", "created_at":"20/10/2022"}
+]
